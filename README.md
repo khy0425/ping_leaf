@@ -1,20 +1,15 @@
-<<<<<<< HEAD
-# ping_leaf
-=======
-# ping_leaf
+PingLeaf는 Flutter로 개발된 프로젝트입니다. 이 프로젝트는 [프로젝트의 목적이나 기능에 대한 간단한 설명]을 제공합니다.
 
-책관리 어플리케이션
+## 시작하기
 
-## Getting Started
+이 지침은 로컬 머신에서 프로젝트를 설정하고 실행하는 방법을 설명합니다.
 
-This project is a starting point for a Flutter application.
+### 필수 조건
 
-A few resources to get you started if this is your first Flutter project:
+- Flutter SDK 설치
+- Android Studio 또는 Visual Studio Code 설치
+- Android/iOS 에뮬레이터 또는 실제 디바이스
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 라이선스
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> 65a1945 (Initial commit with Flutter project)
+이 프로젝트는 MIT 라이선스 하에 배포됩니다. 자세한 내용은 `LICENSE` 파일을 참조하세요.
